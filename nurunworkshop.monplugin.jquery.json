@@ -1,0 +1,21 @@
+{
+"name":"nurunworkshop.monplugin", 
+"version":"0.0.1",
+"title":"Plugin workshop",
+"author":{
+    "name" : "Ben Girard",
+        "email" : "b@rubble.com",
+        "url" : "http://barnyrubble.tumblr.com/"
+},
+"licenses":[
+    {
+        "type": "MIT",
+        "url": "#"
+    }
+],
+"keywords":["nurun","formation","formation"],
+"dependencies":{
+	"jquery":"1.9.1"
+},
+"description":"voici un plugin"
+}
